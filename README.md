@@ -34,3 +34,11 @@ Working on this application helped me better understand how to structure a large
 ## Project Purpose
 
 This project was created as part of my Software Engineering coursework at Southern New Hampshire University. The goal was to develop a functional investment calculator that demonstrates compound interest calculations while following programming best practices and producing organized, readable output.
+
+## Project Screenshots
+
+### Investment Calculator Input Screen
+![Investment Calculator Input](Investment%20Calculator.png)
+
+### Investment Calculator Results
+![Investment Calculator Results](Investment%20Calculator%20results.png)
